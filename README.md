@@ -1,4 +1,4 @@
-# NGINX Load Balancer for 4 Backend Machines
+# NGINX Load Balancer for 4 Backend Machines with manual commands of Docker
 
 This project sets up an NGINX load balancer that distributes traffic across 4 backend servers.
 
